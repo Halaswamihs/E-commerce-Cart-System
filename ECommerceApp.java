@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ECommerceApp {
 
-    // Product class
+    
     static class Product {
         private String name;
         private double price;
@@ -34,7 +34,7 @@ public class ECommerceApp {
         }
     }
 
-    // Cart class
+    
     static class Cart {
         private Map<Product, Integer> items;
 
@@ -85,10 +85,10 @@ public class ECommerceApp {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Store products in a map for easy access
+        
         Map<String, Product> productCatalog = new HashMap<>();
 
-        // Create a shopping cart
+        
         Cart cart = new Cart();
 
         while (true) {
