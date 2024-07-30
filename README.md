@@ -16,3 +16,5 @@ Key Focus
 3. OOP: Emphasize encapsulation and inheritance. For instance, create a base 'Product' class and specialized subclasses for different
 types of products.
 
+output
+![image](https://github.com/user-attachments/assets/7b8c3d04-55f4-42ed-bad0-23825f0957f3)
